@@ -1,4 +1,4 @@
-This was a project done for my Software Development Lab at College of Engineering Guindy, Anna University during my final year. All API's and code are valid as of November, 2017.
+This was a project done for my Software Development Lab at College of Engineering Guindy, Anna University during my final year. All API's and code are valid as of November, 2017. 
 
 Gift giving is one of the main reasons for shopping. People are generally very confused in finding what their companions like and hence spend a lot of time in finding the “right” gift for their friends. It is truly a difficult task to choose between millions of possible gifts and narrow it down based on the budget and liking of friends. 
 
@@ -54,3 +54,5 @@ The "Keywords.csv" file is a dictionary made to map and identify different sport
 The probable gifts possible for each user is given in the "probable_gifts.csv" file which will be present in the directory of each user.
 
 All code are run individually as I was testing them one after another but one main program could be easily written to call all the other code in order for simplicity.
+
+Disclaimer: This recommender system doesn't have a recommender model as such and connects the information received from Facebook and queries Amazon for relevant giftable products with feature keywords obtained from evaluating the data scraped from facebook.
